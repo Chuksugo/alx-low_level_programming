@@ -1,6 +1,9 @@
 #include <stdio.h>
 /*
  * main - main block
+ * 
+ * Description 'Writing a C program that prints followed by a new line'
+ *
  * return: o
  */
 int main(void)
